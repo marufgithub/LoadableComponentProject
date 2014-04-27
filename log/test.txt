@@ -1,0 +1,9 @@
+2014-04-25 00:10:14,557 INFO   [BaseTest] browser is initialized  
+2014-04-25 00:10:16,082 INFO   [SmokeTest] ================================ 
+2014-04-25 00:10:16,082 INFO   [SmokeTest] Purchse test started 
+2014-04-25 00:10:16,083 INFO   [SmokeTest] ================================ 
+2014-04-25 00:10:16,125 INFO   [IndexPage] Visiting index page 
+2014-04-25 00:10:16,333 INFO   [IndexPage] End of isLoaded method 
+2014-04-25 00:10:19,657 INFO   [IndexPage] Click Shop link 
+2014-04-25 00:10:19,671 INFO   [TheShopPage] Visiting the shop page 
+2014-04-25 00:10:19,684 INFO   [TheShopPage] End of isLoaded method 
